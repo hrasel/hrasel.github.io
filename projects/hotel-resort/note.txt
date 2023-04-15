@@ -1,5 +1,0 @@
-*** This Hotel template needs to be Update below...
-
-1. Navigation (Transparent to dark when scroll),
-2. Feature image change,
-3. Counter ( To be run when scroll on section)
